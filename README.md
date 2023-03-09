@@ -84,3 +84,19 @@ How to set-up the project:
 7.Go to link localhost:8000
 
 Enjoy :)
+
+Some photos of the project:
+![screencapture-127-0-0-1-8000-2023-03-03-22_06_19](https://user-images.githubusercontent.com/78311361/224144465-bc9595b9-5b5f-4421-97cc-1e4d54b2f054.png)
+
+![screencapture-127-0-0-1-8000-candidates-31-2023-03-03-21_56_03](https://user-images.githubusercontent.com/78311361/224144594-158d9eee-361d-4506-9aae-6aeac64710db.png)
+![screencapture-127-0-0-1-8000-candidates-2023-03-03-21_55_48](https://user-images.githubusercontent.com/78311361/224144607-49e6c97a-805b-419b-9f41-b89f2cbebf99.png)
+![screencapture-127-0-0-1-8000-dashboard-2023-03-03-21_52_44](https://user-images.githubusercontent.com/78311361/224144620-0ae1a476-de4e-436b-87bc-537a6f424514.png)
+![screencapture-127-0-0-1-8000-dashboard-2023-03-03-21_58_40](https://user-images.githubusercontent.com/78311361/224144624-b3b9b01b-c795-4a83-a249-04a3a20996df.png)
+![screencapture-127-0-0-1-8000-register-2023-03-03-22_06_12](https://user-images.githubusercontent.com/78311361/224144630-0611a4ba-cd36-445e-80ae-b910c37e39fc.png)
+![screencapture-127-0-0-1-8000-subjects-17-edit-2023-03-03-21_54_17](https://user-images.githubusercontent.com/78311361/224144632-4657548d-b7d3-4d56-b2d6-ea4bc309e2ae.png)
+![screencapture-127-0-0-1-8000-subjects-2023-03-03-21_54_03](https://user-images.githubusercontent.com/78311361/224144635-0508f152-edfe-41c7-8308-976193899996.png)
+![screencapture-127-0-0-1-8000-subjects-create-2023-03-03-21_53_45](https://user-images.githubusercontent.com/78311361/224144637-0c813e38-05b7-4d99-b7ac-1e15daf10749.png)
+![screencapture-127-0-0-1-8000-voters-24-2023-03-03-21_55_26](https://user-images.githubusercontent.com/78311361/224144641-6f8fd571-ecfd-4a47-949a-667c36fbd98f.png)
+![screencapture-127-0-0-1-8000-voters-2023-03-03-21_54_46](https://user-images.githubusercontent.com/78311361/224144643-e0f96b14-3ccc-435f-9587-3ed5515d4cb6.png)
+![screencapture-127-0-0-1-8000-voters-create-2023-03-03-21_54_54](https://user-images.githubusercontent.com/78311361/224144645-f11b9421-4573-4281-bf9e-f22623cead2b.png)
+![screencapture-127-0-0-1-8000-votes-2023-03-03-21_58_32](https://user-images.githubusercontent.com/78311361/224144647-46903b83-5edd-4d50-aab3-02f66fd7436a.png)

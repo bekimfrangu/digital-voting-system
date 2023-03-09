@@ -61,4 +61,6 @@ Enjoy :)
 ![screencapture-127-0-0-1-8000-voters-24-2023-03-03-21_55_26](https://user-images.githubusercontent.com/78311361/224144641-6f8fd571-ecfd-4a47-949a-667c36fbd98f.png)
 ![screencapture-127-0-0-1-8000-voters-2023-03-03-21_54_46](https://user-images.githubusercontent.com/78311361/224144643-e0f96b14-3ccc-435f-9587-3ed5515d4cb6.png)
 ![screencapture-127-0-0-1-8000-voters-create-2023-03-03-21_54_54](https://user-images.githubusercontent.com/78311361/224144645-f11b9421-4573-4281-bf9e-f22623cead2b.png)
-![screencapture-127-0-0-1-8000-votes-2023-03-03-21_58_32](https://user-images.githubusercontent.com/78311361/224144647-46903b83-5edd-4d50-aab3-02f66fd7436a.png)
+![screencapture-127-0-0-1-8000-votes-2023-0![SDBTablet](https://user-images.githubusercontent.com/78311361/224146015-c3fa4827-0ea5-4b4d-91d9-d79e58bd5c73.png)
+3-03-21_58_32](https://user-images.githubusercontent.com/78311361/224144647-46903b83-5edd-4d50-aab3-02f66fd7436a.png)
+

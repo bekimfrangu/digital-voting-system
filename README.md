@@ -29,7 +29,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 DVS is a digital system that users can vote online and all the voting process of a country or a company or whatever it is that runs a voting system can be done through
 this online system which offers a great features and all the reason for what is made is to get the world being better and eassier for people.
 
-How to set-up the project:
+## How to set-up the project:
 
 1.Run git clone
 
@@ -47,9 +47,9 @@ How to set-up the project:
 
 Enjoy :)
 
-Some photos of the project:
+## Some photos of the project:
 
-![screencapture-127-0-0-1-8000-2023-03-03-22_06_19](<img src="https://user-images.githubusercontent.com/78311361/224144465-bc9595b9-5b5f-4421-97cc-1e4d54b2f054.png" width="100" height="100")
+![screencapture-127-0-0-1-8000-2023-03-03-22_06_19](https://user-images.githubusercontent.com/78311361/224144465-bc9595b9-5b5f-4421-97cc-1e4d54b2f054.png)
 ![screencapture-127-0-0-1-8000-candidates-31-2023-03-03-21_56_03](https://user-images.githubusercontent.com/78311361/224144594-158d9eee-361d-4506-9aae-6aeac64710db.png)
 ![screencapture-127-0-0-1-8000-candidates-2023-03-03-21_55_48](https://user-images.githubusercontent.com/78311361/224144607-49e6c97a-805b-419b-9f41-b89f2cbebf99.png)
 ![screencapture-127-0-0-1-8000-dashboard-2023-03-03-21_52_44](https://user-images.githubusercontent.com/78311361/224144620-0ae1a476-de4e-436b-87bc-537a6f424514.png)
